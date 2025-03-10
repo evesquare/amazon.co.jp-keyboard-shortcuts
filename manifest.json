@@ -4,7 +4,6 @@
   "author": "evesquare",
   "version": "1.0",
   "description": "⌘+K(win+K)でAmazon商品検索テキストボックスにフォーカスします。",
-  "default_locale": "ja",
   "icons": {
     "16": "icon.png",
     "48": "icon.png",
