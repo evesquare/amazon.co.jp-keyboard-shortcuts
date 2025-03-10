@@ -1,8 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "Amazon Search Keyboard Focus",
+  "name": "Amazon商品検索キーボードショートカット",
+  "author": "evesquare",
   "version": "1.0",
-  "description": "⌘+K to focus Amazon search box",
+  "description": "⌘+K(win+K)でAmazon商品検索テキストボックスにフォーカスします。",
+  "default_locale": "ja",
   "icons": {
     "16": "icon.png",
     "48": "icon.png",
